@@ -1,5 +1,0 @@
-ego-lay-atman-bay/sync-test-1:
-  - test/test.txt
-
-ego-lay-atman-bay/sync-test-2@test-branch:
-  - folder/worked.txt
